@@ -32,8 +32,12 @@ Ma mission est d'intégrer l'interface du site avec du code HTML et CSS. Le site
 
 Maquette desktop :
 
-["maquettes"](/images/maquettes/Desktop.svg)
+<p align="center">
+  <img src="/images/maquettes/iPhone8.svg" alt="Maquette Mobile Reservia">
+</p>
 
 Maquette mobile :
 
-["maquettes"](/images/maquettes/iphone8.svg)
+<p align="center">
+  <img src="/images/maquettes/Desktop.svg" alt="Maquette Desktop Reservia">
+</p>
